@@ -1,2 +1,6 @@
 this is the one 
+<<<<<<< HEAD
 Update for merging
+=======
+formain merging
+>>>>>>> main
